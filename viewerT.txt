@@ -1,4 +1,6 @@
 default	16:49:40.554097+0200	dasd	Attempting to suspend based on triggers: (     "com.apple.duetactivityscheduler.nwstatus.cell" )
-default	16:49:40.554339+0200	dasd	Ignoring trigger com.apple.duetactivityscheduler.nwstatus.cell because conditions are deteriorating
+default	16:49:40.554339+0200
+com.apple.duetactivityscheduler.nwstatus.cell because conditions are deteriorating
 default	16:49:40.554518+0200	dasd	Evaluating 0 activities based on triggers
 default	16:49:40.641028+0200	backboardd	[ALS] ts=17665.580 lux=418.945<private> xy=(0.274 0.298) chs=[11384 20830 14101 11042 9153] CCT1=6696.231 gain=256x mode=<private> subsamples=24 rawLux=420.293 nits=132 xTalk=[0 3 3 4 4] status=0x9B copyEvent=0
+Change
